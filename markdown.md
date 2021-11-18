@@ -4,7 +4,7 @@
 
 A classic British cake from the Bake Off judge, Paul Hollywood's lemon drizzle is a simple tray bake, made extra special with feather icing
 <br>
-Asimple file modification
+A simple file modification
 <br>
 
 ![Output](./cake.jpg)
